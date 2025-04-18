@@ -31,7 +31,7 @@ const navItems = [
       { name: "Assets", href: "/account-setup/assets", icon: FolderOpen },
     ],
   },
-  { name: "Campaign Setup", href: "/campaign-setup", icon: Megaphone },
+  { name: "Campaigns", href: "/campaign-setup", icon: Megaphone },
   { name: "Ad Creation", href: "/ad-creation", icon: PenTool },
   { name: "Ad Library", href: "/ad-library", icon: Library },
 ]
